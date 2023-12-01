@@ -1,0 +1,1 @@
+Realizar un programa que dado por teclado un limite numerico (por ejemplo 100) muestre por pantalla todos los numeros hasta ese limite (empezando por 1)
